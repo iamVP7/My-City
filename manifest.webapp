@@ -1,0 +1,15 @@
+{
+  "name": "App Name",
+  "description": "This is very awesome app it will tell about city.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/images/app_icon_60.png",
+    "128": "/images/app_icon_128.png"
+  },
+  "version": "1.1",
+  "developer": {
+    "name": "developer_name",
+    "url": "developer_website"
+  },
+  "default_locale": "en"
+}
